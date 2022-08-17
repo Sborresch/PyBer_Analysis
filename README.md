@@ -27,7 +27,11 @@ Based on the above image, the total fare values for all three city types are in 
 # Summary
 The goal of this data analysis was to identify how Pyber is used among each of the city types. Once Pyber was aware of its current situation, it can navigate to where it wants to be which is to provide improved access and affordability for underserved populations. In this case, those riders in rural and suburban city types. Below are the recommendations I determined to help Pyber reach it goals.
 
-## Recommendation #1: Focus 
+## Recommendation #1: Decreasing Fare Rates for Rural and Suburban Riders
+Based on the summar dataframe rural and suburban riders are charged 5 to 26-41% higher than urban riders. This can likely be due to the amount of time or distance the driver must provide each rural or suburban customer. If Pyber is looking to make their services more affordable to the underserved popoulations of rural and suburban individuals than decreasing the rate of which they are charged might increase customer satisfaction and demand in these areas.
 
-## Recommendation #2
-## Recommendation #3
+## Recommendation #2: Increasing the Availability of Drivers in Rural and Suburban Locations
+Based on the summary dataframe there are less drivers than there are riders in both rural and suburban city types. This can increase wait times for riders and makes supply limited thus increasing the price per driver. In comparison, there are nearly double the amount of drivers than riders in urban areas. Therefore, there is more accessability to riders in urban areas than there are in others. Because the rural and suburban areas are underserved it can be an option to increase the amount of drivers employed by Pyber to better fulfill the demand.
+
+## Recommendation #3: Both Decrease Fare Rates and Increase Availability of Drivers in Underserved Locations
+If Pyber really wants to cater to these underserved markets, than one drastic plan is to make a small decrease in the fare ride rates and make a small increase in the amount of drivers in these areas. This will help narrow the gap of disparity amoung the populations by adjusting two important factors, price and supply. 
